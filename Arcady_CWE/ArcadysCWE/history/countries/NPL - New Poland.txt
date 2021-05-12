@@ -74,7 +74,7 @@ nonstate_consciousness = 0
 schools = army_tech_school
 decision = united_nations
 decision = jointheunga
-oob = "/POL_oob.txt"
+
 
 1950.1.1 = {
 	government = proletarian_dictatorship

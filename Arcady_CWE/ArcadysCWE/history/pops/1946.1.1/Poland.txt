@@ -2005,12 +2005,12 @@
 #Krakow - Krakow (1016000/254000 POPS)
 703 = {
 	capitalists = {
-		culture = jewish
-		religion =  jewish 
+		culture = german
+		religion =  german 
 		size = 1193
 	 } 
 	capitalists = {
-		culture = jewish
+		culture = german
 		religion = secularism
 		size = 76
 	 } 
@@ -2110,12 +2110,12 @@
 		size = 12044
 	 } 
 	farmers = {
-		culture = jewish
-		religion =  jewish 
+		culture = german
+		religion =  german 
 		size = 8356
 	 } 
 	farmers = {
-		culture = jewish
+		culture = german
 		religion = secularism
 		size = 533
 	 } 
@@ -2339,112 +2339,112 @@
 #Warsaw - Warsaw (2019000/504750 POPS)
 706 = {
 	capitalists = {
-		culture = jewish
-		religion =  jewish 
+		culture = german
+		religion =  german 
 		size = 2371
 	 } 
 	capitalists = {
-		culture = jewish
+		culture = german
 		religion = secularism
 		size = 151
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 303
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 19
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1214
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 77
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 18978
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 1211
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 948
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 60
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 4744
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 302
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 10863
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 693
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 10320
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 658
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 33135
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 2115
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 374978
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 23934
 	 } 
 	farmers = {
-		culture = jewish
-		religion =  jewish 
+		culture = german
+		religion =  german 
 		size = 16606
 	 } 
 	farmers = {
-		culture = jewish
+		culture = german
 		religion = secularism
 		size = 1060
 	 } 
@@ -2452,97 +2452,97 @@
 #Suwalki - Suwalki (367000/91750 POPS)
 707 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 54
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 3
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 219
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 14
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 3449
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 220
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 172
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 10
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 430
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 27
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 861
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 55
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1974
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 126
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1875
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 119
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 6023
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 384
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 57383
 	 } 
@@ -2565,97 +2565,97 @@
 #Plock - Plock (784000/196000 POPS)
 708 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 117
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 7
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 470
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 30
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 7369
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 470
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 368
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 23
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 921
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 58
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1842
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 117
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 4218
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 269
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 4007
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 255
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 12866
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 821
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 152057
 	 } 
@@ -2668,97 +2668,97 @@
 #Lomza - Lomza (606000/151500 POPS)
 709 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 90
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 363
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 23
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 5696
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 363
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 284
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 18
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 711
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 45
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1424
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 90
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 3260
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 208
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 3097
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 197
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 9945
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 634
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 117535
 	 } 
@@ -2771,97 +2771,97 @@
 #Skierniewicz - Skierniewicz (257000/64250 POPS)
 710 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 38
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 2
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 154
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 9
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 2415
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 154
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 120
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 7
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 301
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 19
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 603
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 38
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1382
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 88
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1313
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 83
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 4217
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 269
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 49847
 	 } 
@@ -2977,97 +2977,97 @@
 #Lodz - Lodz (1848000/462000 POPS)
 712 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 277
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1111
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 17371
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 1108
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 868
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 55
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 2171
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 138
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 4342
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 277
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 9943
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 634
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 9446
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 602
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 30329
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 1935
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 358419
 	 } 
@@ -3492,99 +3492,99 @@
 #Kalisz - Kalisz (581000/145250 POPS)
 717 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 86
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 348
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 22
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 5461
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 348
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 272
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 682
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 43
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1364
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 87
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 3126
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 199
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 2969
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 189
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 9535
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 608
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
-		size = 112687
+		size = 52687
 	 } 
 	farmers = {
 		culture = polish
@@ -3595,97 +3595,97 @@
 #Bialystock - Bialystock (558000/139500 POPS)
 719 = {
 	officers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 83
 	 } 
 	officers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 5
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 335
 	 } 
 	soldiers = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 21
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 5245
 	 } 
 	aristocrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 334
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 262
 	 } 
 	bureaucrats = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 16
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 655
 	 } 
 	capitalists = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 41
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 1311
 	 } 
 	clergymen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 83
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 3002
 	 } 
 	clerks = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 191
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 2851
 	 } 
 	artisans = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 182
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 9157
 	 } 
 	craftsmen = {
-		culture = polish
+		culture = german
 		religion = secularism
 		size = 584
 	 } 
 	farmers = {
-		culture = polish
+		culture = german
 		religion =  catholic 
 		size = 74131
 	 } 

@@ -1,28 +1,54 @@
-# GENERATED
-
-#### WW2 allies ####
-
 alliance = {
 	first = ENG
 	second = IRQ
-	start_date = 1947.1.1
+	start_date = 1939.1.1
+	end_date = 1954.1.1
+}
+alliance = {
+	first = ENG
+	second = CAN
+	start_date = 1939.1.1
+	end_date = 1954.1.1
+}
+alliance = {
+	first = ENG
+	second = RAJ
+	start_date = 1939.1.1
+	end_date = 1954.1.1
+}
+alliance = {
+	first = ENG
+	second = AST
+	start_date = 1939.1.1
+	end_date = 1954.1.1
+}
+alliance = {
+	first = ENG
+	second = SAF
+	start_date = 1939.1.1
 	end_date = 1954.1.1
 }
 alliance = {
 	first = ENG
 	second = PAK
-	start_date = 1950.1.1
+	start_date = 1939.1.1
 	end_date = 1956.1.1
 }
 alliance = {
 	first = ENG
 	second = HND
-	start_date = 1950.1.1
+	start_date = 1939.1.1
 	end_date = 1956.1.1
 }
 alliance = {
 	first = GER
 	second = SPA
-	start_date = 1949.1.1
+	start_date = 1939.1.1
+	end_date = 1956.1.1
+}
+alliance = {
+	first = FRA
+	second = ITA
+	start_date = 1939.1.1
 	end_date = 1956.1.1
 }

@@ -99,7 +99,7 @@ russia_acquire_state = {
     break_truce_prestige_factor = 1
     break_truce_infamy_factor = 0
     break_truce_militancy_factor = 0
-    truce_months = 5
+    truce_months = 1
 
     good_relation_prestige_factor = 1
     good_relation_infamy_factor = 1

@@ -161,7 +161,7 @@ political_decisions = {
 				add_core = RUS
 			}
 		}
-	end_ostland = {
+end_rusland = {
 		picture = "great_patriotic_war"
 		potential = {
 			is_culture_group = russian_culture
@@ -176,11 +176,80 @@ political_decisions = {
 			}
 		tag = RUS
 		war = no
+		RUS = {
+			stronger_army_than = GER
+		}
 		}
 		
 		effect = {
 			badboy = 15
+			war = {
+				target = RKM
+					attacker_goal = {
+						casus_belli = conquest
+					}
+					call_ally = yes
+					defender_goal = {
+						casus_belli = conquest
+						}
+			}
 		}
 }
+
+end_ukraine = {
+		picture = "great_patriotic_war"
+		potential = {
+			is_culture_group = russian_culture
+		NOT = {
+			tag = UKR
+		}
+		}
+		
+		allow = {
+			1008 = {
+				owned_by = THIS
+			}
+		tag = RUS
+		war = no
+		RUS = {
+			stronger_army_than = UKR
+		}
+		}
+		
+		effect = {
+			badboy = 15
+			war = {
+				target = UKR
+					attacker_goal = {
+						casus_belli = conquest
+					}
+					call_ally = yes
+					defender_goal = {
+						casus_belli = status_quo
+						}
+			}
+		}
+}
+russia_unifier_boost_ai = {
+		picture = "great_patriotic_war"
+		potential = {
+			is_culture_group = russian_culture
+			NOT = {
+				tag = UKR
+			}
+			AI = yes
+		}
+		
+		allow = {
+			NOT = {
+				money = 50000
+			}
+		}
+		
+		effect = {
+			money = 100000
+		}
+}
+
 }
 	

@@ -169,5 +169,4 @@ NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guer
 NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 NORMAL_WAR_RELEASE_PUPPET_NAME;$ORDER$$FIRST$ War to Liberate $SECOND$ $COUNTRY$;$ORDER$ guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$er Krieg um $COUNTRY$;;$ORDER$ Guerra $FIRST$-$SECOND$ sobre $COUNTRY$;;;;;;;;;x;
 NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;$ORDER$ guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$er Krieg um $COUNTRY$;;$ORDER$ Guerra $FIRST$-$SECOND$ sobre $COUNTRY$;;;;;;;;;x;
-NORMAL_WAR_RUSSIAN_UNIFICATION;$ORDER$ $FIRST$-$SECOND$ War;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
 NORMAL_WAR_NAME_REPARATIONS;$ORDER$ $FIRST$-$SECOND$ War;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;

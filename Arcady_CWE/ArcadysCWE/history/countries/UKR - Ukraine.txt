@@ -1,8 +1,7 @@
 capital = 958
 primary_culture = ukrainian
-culture = russian
 religion = secularism
-government = proletarian_dictatorship
+government = colonial_government
 plurality = 12.0
 nationalvalue = nv_order
 literacy = 0.11

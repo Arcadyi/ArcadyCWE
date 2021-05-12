@@ -62,6 +62,7 @@ consciousness = 1
 nonstate_consciousness = 1
 schools = industrial_tech_school
 decision = atomic_setup
+oob = "/GER_oob.txt"
 
 1992.1.1 = {
 	capital = 549
