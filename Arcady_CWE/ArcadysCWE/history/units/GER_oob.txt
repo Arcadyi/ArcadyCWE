@@ -1,0 +1,963 @@
+leader = {
+        name = "Robert Ritter von Greim"
+        date = 1945.1.1
+        type = land
+        personality = heroic
+        background = brilliant_strategist
+        prestige = 0.5
+}
+
+leader = {
+        name = "Ferdinand Schörner"
+        date = 1945.1.1
+        type = land
+        personality = meticulous
+        background = gifted_administrator
+        prestige = 0.2
+}
+
+leader = {
+        name = "Walter Model"
+		date = 1945.1.1
+        type = land
+        personality = decisive
+        background = skilled
+        prestige = 0.2
+}
+
+leader = {
+        name = "Hermann Göring"
+        date = 1945.1.1
+        type = land
+        personality = charismatic
+        background = brilliant_strategist
+        prestige = 0.2
+}
+
+leader = {
+        name = "Adolf Hitler"
+        date = 1945.1.1
+        type = land
+        personality = audacious
+        background = war_college
+        prestige = 0.2
+}
+
+leader = {
+        name = "Paul Ludwig Ewald von Kleist"
+        date = 1945.1.1
+        type = land
+        personality = cruel
+        background = state_ideologue
+        prestige = 0.2
+}
+
+leader = {
+        name = "Georg von Küchler"
+        date = 1945.1.1
+        type = land
+        personality = soldierly
+        background = unfulfilled_potential
+        prestige = 0.2
+}
+
+army = {
+	name = "Armee von Deutschland I"
+	location = 410
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland II"
+	location = 409
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland III"
+	location = 412
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland IV"
+	location = 397
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland V"
+	location = 549
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland VI"
+	location = 370
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland VII"
+	location = 698
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+army = {
+	name = "Armee von Deutschland VIII"
+	location = 599
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = mechanized_infantry
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr6"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr7"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr8"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr9"
+		type = tank
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr4"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr5"
+		type = artillery
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = bomber
+	}
+	regiment = {
+		name= "Regiment nr1"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr2"
+		type = cavalry
+	}
+	regiment = {
+		name= "Regiment nr3"
+		type = cavalry
+	}
+}
+
+navy = {
+	name = "Kriegsmarine I"
+	location = 994
+	ship = {
+		name= "SS Bismarck"
+		type = transportship
+	}
+	ship = {
+		name= "SS Tirpitz"
+		type = transportship
+	}
+	ship = {
+		name= "SS Berlin"
+		type = transportship
+	}
+	ship = {
+		name= "SS Hannover"
+		type = transportship
+	}
+	ship = {
+		name= "SS Adolf Hitler"
+		type = transportship
+	}
+	ship = {
+		name= "SS Ostland"
+		type = transportship
+	}
+	ship = {
+		name= "SS Himmler"
+		type = transportship
+	}
+	ship = {
+		name= "SS Wilhelm"
+		type = transportship
+	}
+	ship = {
+		name= "SS Wolfgang Zenker"
+		type = transportship
+	}
+	ship = {
+		name= "SS Atlantische"
+		type = transportship
+	}
+	ship = {
+		name= "SS Nordosten"
+		type = transportship
+	}
+	ship = {
+		name= "SS Samara"
+		type = transportship
+	}
+}
