@@ -90,6 +90,7 @@ russia_acquire_state = {
     is_triggered_only = yes
     months = 12
     crisis = no
+	mutual = yes
 
     badboy_factor = 0
     prestige_factor = 0

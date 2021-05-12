@@ -1,0 +1,25 @@
+country_event = {
+	id = 696945
+	title = "Unifiers of Russia"
+	desc = "Unifiers of Russia"
+	allow_multiple_instances  = yes
+	
+	trigger = {
+		is_culture_group = russian_culture
+		war = yes
+		war_exhaustion = 60
+		AI = yes
+	}
+	mean_time_to_happen = {
+		months = 3
+		modifier = {
+			factor = 0.9
+			war_exhaustion = 90
+		}
+	}
+	option = {
+		name = "Hurrah!"
+		war_exhaustion = -30	
+	}
+	
+}
