@@ -4,6 +4,7 @@
 		culture = russian
 		religion =  orthodox 
 		size = 663
+		size = 663
 	 } 
 	officers = {
 		culture = russian
@@ -16845,82 +16846,82 @@
 #Reval - Reval (576000/144000 POPS)
 349 = {
 	officers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 347
 	 } 
 	officers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 84
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 1391
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 336
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 5332
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 1291
 	 } 
 	clergymen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 2318
 	 } 
 	clergymen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 561
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 2815
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 682
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 8893
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 2154
 	 } 
 	farmers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 5562
 	 } 
 	farmers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 1347
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = german
 		religion =  orthodox 
 		size = 1159
 	 } 
 	farmers = {
-		culture = byelorussian
+		culture = german
 		religion = secularism
 		size = 280
 	 } 
@@ -16935,9 +16936,9 @@
 		size = 280
 	 } 
 	farmers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
-		size = 86940
+		size = 36940
 	 } 
 	farmers = {
 		culture = estonian
@@ -16948,52 +16949,52 @@
 #Narva - Narva (172000/43000 POPS)
 350 = {
 	officers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 103
 	 } 
 	officers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 25
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 415
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 100
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 173
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 41
 	 } 
 	bureaucrats = {
-		culture = ukrainian
+		culture = german
 		religion =  orthodox 
 		size = 346
 	 } 
 	bureaucrats = {
-		culture = ukrainian
+		culture = german
 		religion = secularism
 		size = 83
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = german
 		religion =  orthodox 
 		size = 346
 	 } 
 	bureaucrats = {
-		culture = byelorussian
+		culture = german
 		religion = secularism
 		size = 83
 	 } 
@@ -17038,17 +17039,17 @@
 		size = 39
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 2492
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 603
 	 } 
 	farmers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 28661
 	 } 
@@ -17061,67 +17062,67 @@
 #Parnu - Parnu (109000/27250 POPS)
 351 = {
 	officers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 65
 	 } 
 	officers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 15
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 263
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 63
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 1008
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 244
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 438
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 106
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 532
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 129
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 1683
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 407
 	 } 
 	farmers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 17944
 	 } 
@@ -17134,67 +17135,67 @@
 #Dorpat - Dorpat (204000/51000 POPS)
 352 = {
 	officers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 123
 	 } 
 	officers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 29
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 492
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 119
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 1888
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 457
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 821
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 198
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 997
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 241
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 3149
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 763
 	 } 
 	farmers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 33582
 	 } 
@@ -17207,67 +17208,67 @@
 #Kuressaare - Kuressaare (33000/8250 POPS)
 353 = {
 	officers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 19
 	 } 
 	officers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 4
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 79
 	 } 
 	soldiers = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 19
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 305
 	 } 
 	bureaucrats = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 73
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 132
 	 } 
 	clergymen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 32
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 161
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 39
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 509
 	 } 
 	craftsmen = {
-		culture = estonian
+		culture = german
 		religion = secularism
 		size = 123
 	 } 
 	farmers = {
-		culture = estonian
+		culture = german
 		religion =  protestant 
 		size = 5433
 	 } 
@@ -17280,62 +17281,62 @@
 #Riga - Riga (1117000/279250 POPS)
 354 = {
 	officers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 715
 	 } 
 	officers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 121
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 2865
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 485
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 10982
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 1862
 	 } 
 	clergymen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 4775
 	 } 
 	clergymen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 809
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 5650
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 958
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 6049
 	 } 
 	craftsmen = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 1025
 	 } 
@@ -17350,12 +17351,12 @@
 		size = 2000
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 191148
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 32417
 	 } 
@@ -17383,67 +17384,67 @@
 #Valmeira - Valmeira (163000/40750 POPS)
 355 = {
 	officers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 118
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 824
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 28592
 	 } 
@@ -17456,79 +17457,79 @@
 #Daugavpils - Daugavpils (163000/40750 POPS)
 356 = {
 	officers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 118
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 824
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
-		size = 1763
+		size = 30763
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 299
 	 } 
 	farmers = {
 		culture = byelorussian
 		religion =  orthodox 
-		size = 12542
+		size = 1542
 	 } 
 	farmers = {
 		culture = byelorussian
@@ -17538,7 +17539,7 @@
 	farmers = {
 		culture = polish
 		religion =  catholic 
-		size = 9058
+		size = 1058
 	 } 
 	farmers = {
 		culture = polish
@@ -17548,7 +17549,7 @@
 	farmers = {
 		culture = lithuanian
 		religion =  protestant 
-		size = 5225
+		size = 1225
 	 } 
 	farmers = {
 		culture = lithuanian
@@ -17559,67 +17560,67 @@
 #Jelgava - Jelgava (163000/40750 POPS)
 357 = {
 	officers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 118
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 824
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 28592
 	 } 
@@ -17632,67 +17633,67 @@
 #Ventspils - Ventspils (163000/40750 POPS)
 358 = {
 	officers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 118
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 824
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 28592
 	 } 
@@ -17705,67 +17706,67 @@
 #Liepaja - Liepaja (163000/40750 POPS)
 359 = {
 	officers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 104
 	 } 
 	officers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 17
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 418
 	 } 
 	soldiers = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 70
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 1602
 	 } 
 	bureaucrats = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 696
 	 } 
 	clergymen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 118
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 824
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 139
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 2603
 	 } 
 	craftsmen = {
-		culture = latvian
+		culture = german
 		religion = secularism
 		size = 441
 	 } 
 	farmers = {
-		culture = latvian
+		culture = german
 		religion =  protestant 
 		size = 28592
 	 } 
@@ -17881,32 +17882,32 @@
 #Kaunas - Kaunas (512000/128000 POPS)
 361 = {
 	officers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 334
 	 } 
 	officers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 49
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 1336
 	 } 
 	soldiers = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 199
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion =  orthodox 
 		size = 1670
 	 } 
 	bureaucrats = {
-		culture = russian
+		culture = german
 		religion = secularism
 		size = 249
 	 } 
@@ -17964,67 +17965,67 @@
 #Marjampole - Marjampole (277000/69250 POPS)
 362 = {
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 180
 	 } 
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 26
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 722
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 108
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 2770
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 414
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1204
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 180
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1412
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 211
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 4463
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 666
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 49492
 	 } 
@@ -18037,67 +18038,67 @@
 #Panevezys - Panevezys (356000/89000 POPS)
 363 = {
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 232
 	 } 
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 34
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 929
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 138
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 3561
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 532
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1548
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 231
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1815
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 271
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 5735
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 856
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 63607
 	 } 
@@ -18110,69 +18111,69 @@
 #Siauliai - Siauliai (371000/92750 POPS)
 364 = {
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 241
 	 } 
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 36
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 968
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 144
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 3711
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 554
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1613
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 241
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1892
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 282
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 5976
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 893
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
-		size = 66287
+		size = 36287
 	 } 
 	farmers = {
 		culture = lithuanian
@@ -18183,67 +18184,67 @@
 #Palanga - Palanga (130000/32500 POPS)
 365 = {
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 84
 	 } 
 	officers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 12
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 339
 	 } 
 	soldiers = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 50
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 1300
 	 } 
 	bureaucrats = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 194
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 565
 	 } 
 	clergymen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 84
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 662
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 99
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 2094
 	 } 
 	craftsmen = {
-		culture = lithuanian
+		culture = german
 		religion = secularism
 		size = 312
 	 } 
 	farmers = {
-		culture = lithuanian
+		culture = german
 		religion =  protestant 
 		size = 23228
 	 } 
@@ -24891,32 +24892,32 @@
 	officers = {
 		culture = russian
 		religion =  orthodox 
-		size = 1812
+		size = 812
 	 } 
 	officers = {
 		culture = russian
 		religion = secularism
-		size = 313
+		size = 5313
 	 } 
 	soldiers = {
 		culture = russian
 		religion =  orthodox 
-		size = 7252
+		size = 5252
 	 } 
 	soldiers = {
 		culture = russian
 		religion = secularism
-		size = 1254
+		size = 45254
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion =  orthodox 
-		size = 4127
+		size = 427
 	 } 
 	bureaucrats = {
 		culture = russian
 		religion = secularism
-		size = 714
+		size = 2014
 	 } 
 	clergymen = {
 		culture = russian
@@ -24966,7 +24967,7 @@
 	farmers = {
 		culture = russian
 		religion = secularism
-		size = 14639
+		size = 98639
 	 } 
 }
 #Petsamo - Petsamo (108000/27000 POPS)

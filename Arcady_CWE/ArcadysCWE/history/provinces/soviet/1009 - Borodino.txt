@@ -1,5 +1,6 @@
-owner = COU
-controller = COU
+owner = RKM
+controller = RKM 
+addcore = RKM
 
 
 trade_goods = timber
@@ -18,8 +19,9 @@ state_building = {
 	upgrade = yes
 }
 1992.1.1 = {
-owner = COU
-controller = COU
+owner = RKM
+controller = RKM 
+addcore = RKM
 
 life_rating = 35
 colonial = 0

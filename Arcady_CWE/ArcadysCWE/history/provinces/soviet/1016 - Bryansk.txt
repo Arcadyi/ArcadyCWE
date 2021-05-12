@@ -1,5 +1,6 @@
-owner = COU
-controller = COU
+owner = RKM
+controller = RKM 
+addcore = RKM
 
 
 trade_goods = cattle
@@ -8,8 +9,9 @@ terrain = forested_farmland
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = COU
-controller = COU
+owner = RKM
+controller = RKM 
+addcore = RKM
 
 life_rating = 35
 colonial = 0

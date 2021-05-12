@@ -161,5 +161,26 @@ political_decisions = {
 				add_core = RUS
 			}
 		}
+	end_ostland = {
+		picture = "great_patriotic_war"
+		potential = {
+			is_culture_group = russian_culture
+		NOT = {
+			tag = UKR
+		}
+		}
+		
+		allow = {
+			1008 = {
+				owned_by = THIS
+			}
+		tag = RUS
+		war = no
+		}
+		
+		effect = {
+			badboy = 15
+		}
+}
 }
 	

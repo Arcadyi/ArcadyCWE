@@ -16,6 +16,7 @@ ORE = "countries/Orenburg.txt"
 OSK = "countries/Orsk.txt"
 ZRV = "countries/Zarevka.txt"
 SRZ = "countries/Syrza.txt"
+RKM = "countries/RK Rusland.txt"
 # Special countries...
 REB = "countries/rebels.txt"
 QHA = "countries/Qinghai.txt"

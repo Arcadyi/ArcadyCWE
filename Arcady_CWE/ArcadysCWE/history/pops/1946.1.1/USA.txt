@@ -19792,7 +19792,7 @@
 	officers = {
 		culture = german
 		religion =  protestant 
-		size = 1531
+		size = 5531
 	 } 
 	officers = {
 		culture = german
@@ -19802,7 +19802,7 @@
 	soldiers = {
 		culture = german
 		religion =  protestant 
-		size = 6129
+		size = 620129
 	 } 
 	soldiers = {
 		culture = german
@@ -19832,7 +19832,7 @@
 	capitalists = {
 		culture = german
 		religion =  protestant 
-		size = 3064
+		size = 5064
 	 } 
 	capitalists = {
 		culture = german
@@ -19887,7 +19887,7 @@
 	farmers = {
 		culture = german
 		religion = secularism
-		size = 6491
+		size = 1005491
 	 } 
 	farmers = {
 		culture = german

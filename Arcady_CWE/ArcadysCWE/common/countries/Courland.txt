@@ -1,8 +1,8 @@
 color = { 2 121 186 } #244  232  109
 proletarian_dictatorship = { 148 10 10 }
-fascist_dictatorship = { 110 110 110 }
 presidential_dictatorship = { 110 110 110 }
 absolute_monarchy = { 49 60 76 }
+colonial_government = { 160 160 160 }
 graphical_culture = PrussianGC
 
 party = {
