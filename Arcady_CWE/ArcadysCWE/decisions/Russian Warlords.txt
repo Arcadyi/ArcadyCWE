@@ -1,0 +1,165 @@
+political_decisions = {
+	return_to_moscow = {
+		picture = "great_patriotic_war"
+		potential = {
+			is_culture_group = russian_culture
+		NOT = {
+			tag = UKR
+			tag = POM
+			has_country_flag = returned_to_moscow
+		}
+		}
+		
+		allow = {
+			1008 = {
+				owned_by = THIS
+			}
+		}
+		
+		effect = {
+			prestige = 50
+			capital = 1008
+			set_country_flag = returned_to_moscow
+		}
+}
+	reunite_russia = {
+		picture = "great_patriotic_war"
+		potential = {
+			is_culture_group = russian_culture
+			NOT = {
+				tag = UKR
+				exists = RUS
+				
+			}
+		}
+		allow = {
+			1008 = {
+				owned_by = THIS
+			}
+			RRF = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			EOR = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			POM = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			NOV = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			SRF = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			BVA = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			IFC = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			URA = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			ASK = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			ORE = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			OSK = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			ZRV = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+			SRZ = {
+				OR ={
+					all_core = {
+							owned_by = THIS
+						}
+					vassal_of = THIS
+					in_sphere = THIS
+				}	
+			}
+		}
+		effect = {
+			prestige = 100
+			change_tag = RUS
+			any_owned_province = {
+				add_core = RUS
+			}
+		}
+}
+	

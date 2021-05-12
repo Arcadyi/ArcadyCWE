@@ -1,0 +1,16 @@
+owner = ASK
+controller = ASK
+add_core = ASK
+
+trade_goods = wool
+life_rating = 35
+terrain = semi_desert
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = RUS
+controller = RUS
+
+life_rating = 35
+colonial = 0
+}

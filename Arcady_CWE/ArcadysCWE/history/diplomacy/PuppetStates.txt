@@ -1,0 +1,40 @@
+# GENERATED
+
+### 1946 Start Date ###
+vassal = {
+	first = FRA
+	second = FAG
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+vassal = {
+	first = GER
+	second = CZH
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+vassal = {
+	first = GER
+	second = POL
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+vassal = {
+	first = RRF
+	second = UBD
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+vassal = {
+	first = ITA
+	second = ALB
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+vassal = {
+	first = SPA
+	second = MOR
+	start_date = 1945.1.1
+	end_date = 2100.1.1
+}
+

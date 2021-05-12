@@ -1,0 +1,16 @@
+owner = ORE
+controller = ORE
+add_core = ORE
+
+trade_goods = iron
+life_rating = 35
+terrain = hilly_grassland
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = RUS
+controller = RUS
+
+life_rating = 35
+colonial = 0
+}

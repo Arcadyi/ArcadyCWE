@@ -1,0 +1,15 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+trade_goods = iron
+life_rating = 35
+terrain = tundra_hills
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = FIN
+controller = FIN
+add_core = FIN
+life_rating = 35
+colonial = 0
+}

@@ -1,0 +1,21 @@
+owner = IFC
+controller = IFC
+add_core = IFC
+
+trade_goods = bauxite
+life_rating = 35
+terrain = boreal_forest_hills
+railroad = 1
+colonial = 0
+state_building = {
+	level = 2
+	building = cement_factory
+	upgrade = yes
+}
+1992.1.1 = {
+owner = IFC
+controller = IFC
+add_core = IFC
+life_rating = 35
+colonial = 0
+}

@@ -1,0 +1,16 @@
+owner = JFO
+controller = JFO
+add_core = JFO
+
+trade_goods = coal
+life_rating = 35
+terrain = boreal_forest
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = RUS
+controller = RUS
+
+life_rating = 35
+colonial = 0
+}

@@ -1,0 +1,16 @@
+owner = IFC
+controller = IFC
+add_core = IFC
+
+trade_goods = coal
+life_rating = 15
+terrain = boreal_forest
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = IFC
+controller = IFC
+add_core = IFC
+life_rating = 15
+colonial = 0
+}

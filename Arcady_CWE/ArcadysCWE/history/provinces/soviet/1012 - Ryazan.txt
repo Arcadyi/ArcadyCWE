@@ -1,0 +1,16 @@
+owner = EOR
+controller = EOR
+add_core = EOR
+
+trade_goods = coal
+life_rating = 35
+terrain = forested_farmland
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = POM
+controller = POM
+add_core = POM
+life_rating = 35
+colonial = 0
+}

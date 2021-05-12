@@ -1,0 +1,16 @@
+owner = NRO
+controller = NRO
+add_core = NRO
+
+trade_goods = cattle
+life_rating = 35
+terrain = dry_grassland
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = NRO
+controller = NRO
+add_core = NRO
+life_rating = 35
+colonial = 0
+}

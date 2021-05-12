@@ -1,0 +1,31 @@
+owner = URA
+controller = URA
+add_core = URA
+
+trade_goods = petroleum
+life_rating = 35
+terrain = boreal_forest
+railroad = 1
+colonial = 0
+state_building = {
+	level = 2
+	building = gas_fuel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = petroleum_fuel_factory
+	upgrade = yes
+}
+1992.1.1 = {
+owner = URA
+controller = URA
+add_core = URA
+life_rating = 35
+colonial = 0
+state_building = {
+	level = 2
+	building = heating_electricity_factory
+	upgrade = yes
+}
+}

@@ -1,0 +1,16 @@
+owner = URA
+controller = URA
+add_core = URA
+
+trade_goods = petroleum
+life_rating = 35
+terrain = boreal_marsh
+railroad = 1
+colonial = 0
+1992.1.1 = {
+owner = URA
+controller = URA
+add_core = URA
+life_rating = 35
+colonial = 0
+}

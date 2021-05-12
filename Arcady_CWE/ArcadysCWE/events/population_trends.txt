@@ -1,0 +1,232 @@
+#############################################################
+#															#
+#                  	Birth Rate Events						#
+#															#
+#############################################################
+
+# Demographic Steps
+# 1. Massive population boom - Literacy between 5% to 10%
+# 2. Stabilisation - Literacy between 10% to 25%
+# 3. Ageing population - Reduce factory productivity
+
+# Special - haredim_jewish, roma and mennonites and not prim/accept
+
+# The Demographic Transition - Population Boom
+country_event = {
+	id = 22600
+	title = "The Demographic Transition - Population Boom"
+	desc = EVT_22602_DESC
+	picture = "demographic_transition"
+
+	trigger = {
+		NOT = { has_country_flag = demographic_transition_stage_1_flag }
+		
+		#Low development
+		literacy = 0.05
+		NOT = { literacy = 0.15 }
+		
+		war = no
+	}
+	
+	mean_time_to_happen = { months = 6 }
+	
+	option = {
+		name = "We welcome these new $COUNTRY_ADJ$ Citizens"
+		
+		add_country_modifier = { name = industrial_pop_boom duration = 7300 }
+		
+		set_country_flag = demographic_transition_stage_1_flag
+	}
+	
+}
+
+# The Demographic Transition - Stable Growth
+country_event = {
+	id = 22601
+	title = "The Demographic Transition - Stable Growth"
+	desc = EVT_22602_DESC
+	picture = "demographic_transition"
+
+	trigger = {
+		NOT = { has_country_flag = demographic_transition_stage_2_flag }
+		
+		has_country_modifier = industrial_pop_boom
+		
+		#Medium development
+		literacy = 0.15
+		NOT = { literacy = 0.25 }
+	}
+	
+	mean_time_to_happen = { months = 6 }
+	
+	option = {
+		name = "$COUNTRY_ADJ$ Population growth is stabilising"
+		
+		remove_country_modifier = industrial_pop_boom
+		
+		set_country_flag = demographic_transition_stage_2_flag
+	}
+}
+
+# The Demographic Transition - Ageing Population
+country_event = {
+	id = 22602
+	title = "The Demographic Transition - Ageing Population"
+	desc = EVTDESC22602
+	picture = "demographic_transition"
+
+	trigger = {
+		NOT = { has_country_flag = demographic_transition_stage_3_flag }
+		
+		NOT = { has_country_modifier = industrial_pop_boom }
+		
+		#21st Century problem
+		year = 2000
+		
+		#Good Healthcare
+		OR = { health_care = acceptable_health_care health_care = good_health_care }
+		
+		#High development
+		literacy = 0.25
+	}
+	
+	mean_time_to_happen = { months = 60 }
+	
+	option = {
+		name = "This is a consequence of decreasing fertility rates and longer lifespans"
+		
+		add_country_modifier = { name = ageing_population duration = -1 }
+		
+		set_country_flag = demographic_transition_stage_3_flag
+	}
+}
+
+### From NWO ###
+
+# haredim_jewish
+country_event = {
+	id = 22612
+	title = EVT_22612_NAME 
+	desc = EVT_22612_DESC
+	picture = "haredim_jewish"
+	
+	trigger = {
+		NOT = { has_country_modifier = demographic_haredim_jewish } 
+		accepted_culture = haredim_jewish
+	}
+	
+	mean_time_to_happen = { months = 1 }
+	
+	option = {
+		name = EVT_22612_OPTA
+		any_pop = { 
+		limit = { has_pop_culture = haredim_jewish }
+		ideology = { factor = 0.9 value = traditionalist }
+		reduce_pop = 1.35
+        }
+		add_country_modifier = { 
+			name = demographic_haredim_jewish 
+			duration = 3665 
+		}
+	}
+	
+	option = {
+		name = EVT_22612_OPTB
+		any_pop = { 
+		limit = { has_pop_culture = haredim_jewish }
+		ideology = { factor = 0.9 value = traditionalist }
+	}
+		add_country_modifier = { 
+			name = demographic_haredim_jewish 
+			duration = 3665 
+		}
+	}
+	
+}
+
+# mennonites
+country_event = { # mennonites
+	id = 22613
+	title = EVT_22613_NAME 
+	desc = EVT_22613_DESC
+	picture = "family_values"
+	
+	trigger = {
+		NOT = { has_country_modifier = demographic_mennonites }
+		any_pop = { 
+			culture = mennonites
+		}
+	}
+	
+	mean_time_to_happen = { months = 1 }
+	
+	option = {
+		name = EVT_22613_OPTA
+		any_pop = { 
+			limit = { culture = mennonites }
+			reduce_pop = 1.35
+		}
+		add_country_modifier = { 
+			name = demographic_mennonites 
+			duration = 3665 
+	    }
+		ai_chance = { factor = 1 }
+ 	}
+	
+	option = {
+		name = EVT_22613_OPTB
+		any_pop = { 
+			limit = { culture = mennonites }
+			reduce_pop = 1.15
+		}
+		add_country_modifier = { 
+			name = demographic_mennonites 
+			duration = 3665 
+	    }
+		ai_chance = { factor = 0 }
+ 	}
+	
+}
+
+# romani
+country_event = {
+	id = 22614
+	title = EVT_22614_NAME 
+	desc = EVT_22614_DESC
+	picture = "romani"
+	
+	trigger = {
+		NOT = { has_country_modifier = demographic_romani }
+		any_pop = { 
+			culture = roma
+		}
+	}
+	
+	mean_time_to_happen = { months = 1 }
+	
+	option = {
+		name = EVT_22614_OPTA
+		any_pop = { 
+			limit = { culture = roma }
+			reduce_pop = 1.25
+		}
+		add_country_modifier = { 
+			name = demographic_romani 
+			duration = 3665 
+	    }
+		ai_chance = { factor = 1 }
+ 	}
+	option = {
+		name = EVT_22614_OPTB
+		any_pop = { 
+			limit = { culture = roma }
+			reduce_pop = 1.16
+		}
+		add_country_modifier = { 
+			name = demographic_romani 
+			duration = 3665 
+	    }
+		ai_chance = { factor = 0 }
+ 	}
+
+}
