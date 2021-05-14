@@ -177,7 +177,7 @@ end_rusland = {
 		tag = RUS
 		war = no
 		RUS = {
-			stronger_army_than = GER
+			stronger_army_than = RKM
 		}
 		}
 		
@@ -190,7 +190,7 @@ end_rusland = {
 					}
 					call_ally = yes
 					defender_goal = {
-						casus_belli = conquest
+						casus_belli = status_quo
 						}
 			}
 		}
