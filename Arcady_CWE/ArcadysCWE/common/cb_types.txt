@@ -40,6 +40,7 @@
 # Order that CBs are executed in a peace treaty
 peace_order = {
 russia_acquire_state
+russia_kill_secessionist
 become_independent
 destroy_wmd
 dismantle_forts
@@ -100,7 +101,7 @@ russia_acquire_state = {
     break_truce_prestige_factor = 1
     break_truce_infamy_factor = 0
     break_truce_militancy_factor = 0
-    truce_months = 1
+    truce_months = 0.1
 
     good_relation_prestige_factor = 1
     good_relation_infamy_factor = 1
@@ -137,6 +138,125 @@ can_use = {
             any_owned_province = {
                 NOT = {    is_core = THIS }
                 is_core = RUS
+            }
+            any_owned_province = {
+                owner = { is_culture_group = russian_culture }
+                NOT = { is_core = RUS }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_RUSSIA_REUNIFICATION
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.10
+        }
+    }
+}
+
+russia_kill_secessionist = {
+    sprite_index = 22
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+	mutual = yes
+
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 0
+    break_truce_militancy_factor = 0
+    truce_months = 1
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+can_use = {
+        NOT = { is_our_vassal = THIS }
+        neighbour = THIS
+        OR = {
+			TAG = MRD
+			TAG = CHU
+			TAG = TAR
+			TAG = UDM
+			TAG = MRI
+			TAG = BAK
+			TAG = KAM
+			TAG = BYU
+			TAG = NPL
+			TAG = JFO
+			TAG = KAZ
+			TAG = KKP
+			TAG = UZB
+			TAG = KYR
+			TAG = TAJ
+			TAG = TKR
+			TAG = CIR
+			TAG = KCH
+			TAG = KAB
+			TAG = NOS
+			TAG = SOT
+			TAG = IGU
+			TAG = CHC
+			TAG = DAG
+			TAG = KOM
+			is_culture_group = russian_culture
+        }
+        THIS = {
+            NOT = { tag = UKR }
+            is_culture_group = russian_culture
+            NOT = {
+                has_country_modifier = neutrality_modifier
+                war_policy = pacifism
+            }
+        }
+        is_vassal = no
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = no_more_war } }
+        }
+    }
+
+    allowed_states = {
+        OR = {
+            any_owned_province = {
+                NOT = {    is_core = THIS }
+                is_core = RUS
+			owned_by = MRD
+			owned_by = CHU
+			owned_by = TAR
+			owned_by = UDM
+			owned_by = MRI
+			owned_by = BAK
+			owned_by = KOM
+			owned_by = KAM
+			owned_by = BYU
+			owned_by = NPL
+			owned_by = JFO
+			owned_by = KAZ
+			owned_by = KKP
+			owned_by = UZB
+			owned_by = KYR
+			owned_by = TAJ
+			owned_by = TKR
+			owned_by = CIR
+			owned_by = KCH
+			owned_by = KAB
+			owned_by = NOS
+			owned_by = SOT
+			owned_by = IGU
+			owned_by = CHC
+			owned_by = DAG
             }
             any_owned_province = {
                 owner = { is_culture_group = russian_culture }

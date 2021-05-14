@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = JAP
+controller = JAP
 #add_core = JAP
 trade_goods = other_minerals
 life_rating = 10

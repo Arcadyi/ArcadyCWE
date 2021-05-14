@@ -1,6 +1,5 @@
-owner = YUG
-controller = YUG
-add_core = YUG
+owner = CRO
+controller = CRO
 add_core = CRO
 trade_goods = grain
 life_rating = 35

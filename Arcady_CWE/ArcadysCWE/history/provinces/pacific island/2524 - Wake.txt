@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = JAP
+controller = JAP
+add_core = JAP
 add_core = MAR
 trade_goods = fish
 life_rating = 10

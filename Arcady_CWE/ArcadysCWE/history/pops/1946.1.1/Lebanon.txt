@@ -1,18 +1,18 @@
 #Baalbeck - Baalbeck (194000/48500 POPS)
 912 = {
 	officers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 6
 	 } 
 	soldiers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 27
 	 } 
 	aristocrats = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  catholic 
 		size = 1876
 	 } 
 	aristocrats = {
@@ -21,80 +21,80 @@
 		size = 63
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 46
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 234
 	 } 
 	capitalists = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 7
 	 } 
 	clergymen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 469
 	 } 
 	clergymen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 15
 	 } 
 	clerks = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 1543
 	 } 
 	clerks = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 51
 	 } 
 	artisans = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = lebanese
+		religion =  catholic 
 		size = 488
 	 } 
 	artisans = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 16
 	 } 
 	artisans = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion =  catholic 
 		size = 1011
 	 } 
 	craftsmen = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion =  catholic 
 		size = 4867
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion =  catholic 
 		size = 25647
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  sunni 
+		culture = lebanese
+		religion =  catholic 
 		size = 12125
 	 } 
 
 	#For Pan-Arab and National Arab
 	farmers = {
 		culture = lebanese
-		religion =  sunni 
+		religion =  catholic 
 		size = 1000
 	 } 
 	farmers = {
@@ -107,24 +107,29 @@
 #Beirut - Beirut (781000/195250 POPS)
 913 = {
 	officers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 27
 	 } 
 	soldiers = {
-		culture = arab_levantine
-		religion =  orthodox 
-		size = 110
+		culture = jewish
+		religion =  jewish 
+		size = 1102
 	 } 
 	soldiers = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 3
 	 } 
 	aristocrats = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  catholic 
 		size = 7556
+	 } 
+	soldiers = {
+		culture = lebanese
+		religion =  catholic 
+		size = 25000
 	 } 
 	aristocrats = {
 		culture = lebanese
@@ -132,83 +137,83 @@
 		size = 253
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 188
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 6
 	 } 
 	capitalists = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 944
 	 } 
 	capitalists = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 31
 	 } 
 	clergymen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 1888
 	 } 
 	clergymen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 63
 	 } 
 	clerks = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 6215
 	 } 
 	clerks = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 208
 	 } 
 	artisans = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = lebanese
+		religion =  catholic 
 		size = 5903
 	 } 
 	artisans = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 198
 	 } 
 	craftsmen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 18956
 	 } 
 	craftsmen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 636
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 63996
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 2149
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  sunni 
-		size = 42955
+		culture = lebanese
+		religion = catholic 
+		size = 142955
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion =  catholic 
 		size = 23430
 	 } 
 	farmers = {
@@ -220,7 +225,7 @@
 	#For Pan-Arab and National Arab
 	farmers = {
 		culture = lebanese
-		religion =  sunni 
+		religion =  catholic 
 		size = 1000
 	 } 
 	farmers = {
@@ -233,18 +238,18 @@
 #Askaleh - Askaleh (194000/48500 POPS)
 914 = {
 	officers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 6
 	 } 
 	soldiers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 27
 	 } 
 	aristocrats = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  jewish 
 		size = 1876
 	 } 
 	aristocrats = {
@@ -253,18 +258,18 @@
 		size = 63
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 46
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
+		culture = lebanese
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  jewish 
 		size = 234
 	 } 
 	capitalists = {
@@ -273,57 +278,57 @@
 		size = 7
 	 } 
 	clergymen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 469
 	 } 
 	clergymen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 15
 	 } 
 	clerks = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 1543
 	 } 
 	clerks = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 51
 	 } 
 	artisans = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 1466
 	 } 
 	artisans = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 49
 	 } 
 	craftsmen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 4708
 	 } 
 	craftsmen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 158
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 15897
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 534
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = lebanese
 		religion =  sunni 
 		size = 21340
 	 } 
@@ -331,7 +336,7 @@
 	#For Pan-Arab and National Arab
 	farmers = {
 		culture = lebanese
-		religion =  sunni 
+		religion =  catholic 
 		size = 1000
 	 } 
 	farmers = {
@@ -344,18 +349,18 @@
 #Sidon - Sidon (194000/48500 POPS)
 915 = {
 	officers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 6
 	 } 
 	soldiers = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 27
 	 } 
 	aristocrats = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  jewish 
 		size = 1876
 	 } 
 	aristocrats = {
@@ -364,18 +369,18 @@
 		size = 63
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 46
 	 } 
 	bureaucrats = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 1
 	 } 
 	capitalists = {
 		culture = lebanese
-		religion =  orthodox 
+		religion =  jewish 
 		size = 234
 	 } 
 	capitalists = {
@@ -384,27 +389,27 @@
 		size = 7
 	 } 
 	clergymen = {
-		culture = arab_levantine
-		religion =  orthodox 
+		culture = jewish
+		religion =  jewish 
 		size = 154
 	 } 
 	clergymen = {
-		culture = arab_levantine
+		culture = jewish
 		religion = secularism
 		size = 5
 	 } 
 	artisans = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion = catholic 
 		size = 1516
 	 } 
 	farmers = {
-		culture = arab_levantine
-		religion =  shiite 
+		culture = lebanese
+		religion =  catholic 
 		size = 32109
 	 } 
 	farmers = {
-		culture = arab_levantine
+		culture = lebanese
 		religion =  sunni 
 		size = 4631
 	 } 

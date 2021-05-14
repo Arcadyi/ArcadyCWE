@@ -170,3 +170,4 @@ NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexi
 NORMAL_WAR_RELEASE_PUPPET_NAME;$ORDER$$FIRST$ War to Liberate $SECOND$ $COUNTRY$;$ORDER$ guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$er Krieg um $COUNTRY$;;$ORDER$ Guerra $FIRST$-$SECOND$ sobre $COUNTRY$;;;;;;;;;x;
 NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;$ORDER$ guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$er Krieg um $COUNTRY$;;$ORDER$ Guerra $FIRST$-$SECOND$ sobre $COUNTRY$;;;;;;;;;x;
 NORMAL_WAR_NAME_REPARATIONS;$ORDER$ $FIRST$-$SECOND$ War;;;;;;;;;;;;x,,,;;;;;;;;;;;;;;;;;
+NORMAL_WAR_RUSSIA_REUNIFICATION;$ORDER$ $FIRST$-$SECOND$ War of Russian Unification;;x;;;;;;;;;;;;;;;;

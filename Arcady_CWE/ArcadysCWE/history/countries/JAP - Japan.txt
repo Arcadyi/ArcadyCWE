@@ -3,13 +3,13 @@ primary_culture = japanese
 culture = ryukyuan
 culture = ainu
 religion = secularism
-government = hms_government
+government = nationalist_dictatorship
 plurality = 18.0
 nationalvalue = nv_equality
 literacy = 0.12
 non_state_culture_literacy = 0.0
 civilized = yes
-prestige = 0
+prestige = 150
 last_election = 1945.10.1
 ruling_party = "Liberal Party"
 upper_house = {
@@ -73,11 +73,8 @@ command_of_the_sea = 1
 # Starting Consciousness
 consciousness = 1
 nonstate_consciousness = 1
-decision = renounce_war_right
 schools = industrial_tech_school
 oob = "/JAP_oob.txt"
-
-decision = add_article_9
 
 1950.1.1 = {
 

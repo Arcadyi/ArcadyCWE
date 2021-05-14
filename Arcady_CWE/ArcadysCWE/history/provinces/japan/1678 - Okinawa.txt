@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = JAP
+controller = JAP
 #add_core = JAP
 add_core = RYK
 add_core = CHI

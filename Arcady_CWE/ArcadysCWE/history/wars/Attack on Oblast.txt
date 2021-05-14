@@ -1,0 +1,15 @@
+name = "Black Vanguard Army War of Purification"
+1948.1.1 = {
+	add_attacker = BVA
+	add_defender = JFO
+	war_goal = {
+		casus_belli = conquest
+		actor = BVA
+		receiver = JFO
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = JFO
+		receiver = BVA
+	}
+}
